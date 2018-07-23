@@ -1,0 +1,6 @@
+C:\Users\g18m6734\source\repos\Prac01\InputValidation\bin\Debug\InputValidation.exe.config
+C:\Users\g18m6734\source\repos\Prac01\InputValidation\bin\Debug\InputValidation.exe
+C:\Users\g18m6734\source\repos\Prac01\InputValidation\bin\Debug\InputValidation.pdb
+C:\Users\g18m6734\source\repos\Prac01\InputValidation\obj\Debug\InputValidation.csproj.CoreCompileInputs.cache
+C:\Users\g18m6734\source\repos\Prac01\InputValidation\obj\Debug\InputValidation.exe
+C:\Users\g18m6734\source\repos\Prac01\InputValidation\obj\Debug\InputValidation.pdb

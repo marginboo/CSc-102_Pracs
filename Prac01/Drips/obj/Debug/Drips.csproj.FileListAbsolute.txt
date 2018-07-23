@@ -1,0 +1,7 @@
+C:\Users\g18m6734\source\repos\Prac01\Drips\bin\Debug\Drips.exe.config
+C:\Users\g18m6734\source\repos\Prac01\Drips\bin\Debug\Drips.exe
+C:\Users\g18m6734\source\repos\Prac01\Drips\bin\Debug\Drips.pdb
+C:\Users\g18m6734\source\repos\Prac01\Drips\obj\Debug\Drips.csprojResolveAssemblyReference.cache
+C:\Users\g18m6734\source\repos\Prac01\Drips\obj\Debug\Drips.csproj.CoreCompileInputs.cache
+C:\Users\g18m6734\source\repos\Prac01\Drips\obj\Debug\Drips.exe
+C:\Users\g18m6734\source\repos\Prac01\Drips\obj\Debug\Drips.pdb

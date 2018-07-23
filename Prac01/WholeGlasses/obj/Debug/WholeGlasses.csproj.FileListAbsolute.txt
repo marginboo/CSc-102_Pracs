@@ -1,0 +1,7 @@
+C:\Users\g18m6734\source\repos\Prac01\WholeGlasses\bin\Debug\WholeGlasses.exe.config
+C:\Users\g18m6734\source\repos\Prac01\WholeGlasses\bin\Debug\WholeGlasses.exe
+C:\Users\g18m6734\source\repos\Prac01\WholeGlasses\bin\Debug\WholeGlasses.pdb
+C:\Users\g18m6734\source\repos\Prac01\WholeGlasses\obj\Debug\WholeGlasses.csprojResolveAssemblyReference.cache
+C:\Users\g18m6734\source\repos\Prac01\WholeGlasses\obj\Debug\WholeGlasses.csproj.CoreCompileInputs.cache
+C:\Users\g18m6734\source\repos\Prac01\WholeGlasses\obj\Debug\WholeGlasses.exe
+C:\Users\g18m6734\source\repos\Prac01\WholeGlasses\obj\Debug\WholeGlasses.pdb
